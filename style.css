@@ -1,0 +1,49 @@
+#logo{
+	background-image: url(image/satish1.jpg);
+	height: 650px;
+	width: 1345px;
+	background-repeat: no-repeat;
+}
+#menu{
+	background-color: #402e16;
+	display: inline-block;
+	position:fixed;
+	left: 800px;
+	top: 0px;
+	bottom: none;
+}
+#menu ul{
+	list-style: none;
+}
+#menu ul li{
+	display: inline-block;
+	background-color: #402e16;
+
+}
+#menu ul li a{
+	padding: 20px;
+	background: rgb(255,138,30,0.3);
+	text-decoration: none;
+	letter-spacing: -1px;
+	color: red;
+	font-size: x-large;
+}
+a:hover{
+	background-color: yellow;
+}
+#imgcntrl ul li{
+	display: inline-block;
+}
+#imgcntrl{
+	top: 1000px;
+}
+h1{
+	color: #4C001A;
+	font-family: Arial;
+	font-size: 50px;
+	text-decoration: none;
+		
+}
+h1 a{
+	text-decoration: none;
+}
